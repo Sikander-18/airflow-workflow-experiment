@@ -1,0 +1,11 @@
+student_id,name,subject,marks,grade
+S101,Aarav Sharma,Mathematics,85,Distinction
+S102,Isha Patil,Physics,78,Distinction
+S103,Rohan Deshmukh,Chemistry,92,Distinction
+S104,Sneha Kulkarni,Biology,67,First Class
+S105,Vikram Joshi,Computer Science,55,Pass
+S106,Priya Nair,Mathematics,72,First Class
+S107,Karan Mehta,Physics,88,Distinction
+S108,Neha Gupta,Chemistry,35,Fail
+S109,Arjun Reddy,Computer Science,81,Distinction
+S110,Meera Iyer,Biology,50,Pass
